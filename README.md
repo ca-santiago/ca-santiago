@@ -6,7 +6,10 @@
 - 👯 I’m looking to collaborate on: Microservices 
 - 🤔 I’m looking for help with:  
 - 💬 Ask me about: Anything
-- 📫 How to reach me: greminoficial@mail.com Twitter [@grem_dev](https://twitter.com/grem_dev) 
+- 📫 How to reach me: 
+  - **Emial** greminoficial@mail.com 
+  - **Twitter** [@grem_dev](https://twitter.com/grem_dev)
+  - **Youtube Channel**  [gremdev](https://www.youtube.com/channel/UC1WVOiE--e2oi86nzeuQv5g)
 - ⚡ Fun fact: I ask a loot
 
 ----
