@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: DDD
 - 👯 I’m looking to collaborate on: Microservices 
 - 🤔 I’m looking for help with:  
-- 💬 Ask me about: Anything
+- 💬 Ask me about: Any topic you like from my Github <3 I will be glad to talk with you, no matter who you are.
 - 📫 How to reach me: 
   - **Emial** greminoficial@mail.com 
   - **Twitter** [@grem_dev](https://twitter.com/grem_dev)
